@@ -1,4 +1,4 @@
-# 详细讲解地址: 
+# 详细讲解地址: https://blog.csdn.net/XH_jing/article/details/112826485
 
 # vue-quill
 
