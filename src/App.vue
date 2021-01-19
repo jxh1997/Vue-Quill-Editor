@@ -1,17 +1,16 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <QuillEditor/>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import QuillEditor from './components/QuillEditor.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    QuillEditor
   }
 }
 </script>
